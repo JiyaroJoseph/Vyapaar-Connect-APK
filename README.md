@@ -16,4 +16,4 @@ Vyapaar Connect is a mobile-first prototype designed to help small vendors digit
 - Rapid prototyping under competitive presentation timelines 
 
 ## APK Download 
-👉 [Download APK – v1.0](https://github.com/YOUR-USERNAME/Vyapaar-Connect-APK/releases/tag/v1.0)
+👉 [Download APK – v1.0](https://github.com/JiyaroJoseph/Vyapaar-Connect-APK/releases/tag/v1.0)
